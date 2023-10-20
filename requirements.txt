@@ -1,0 +1,23 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch==1.11.0+cu113
+torchaudio==0.11.0+cu113
+torchvision==0.12.0+cu113
+awscli==1.18.49
+boto3==1.12.12
+cachetools==3.1.1
+docker==4.4.4
+gitdb2==2.0.6
+gitpython==2.1.15
+matplotlib==3.5.1
+mock==3.0.5
+numba==0.47.0
+pandas==0.24.2
+python-dateutil==2.8.1
+requests==2.24.0
+scikit-image==0.18.2
+sklearn==0.0
+tabulate==0.8.7
+tensorflow-serving-api==2.3.0
+tensorflow==2.3.2
+tqdm==4.31.1
+xmltodict==0.12.0
